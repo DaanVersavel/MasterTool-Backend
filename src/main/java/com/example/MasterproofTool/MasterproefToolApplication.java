@@ -6,7 +6,6 @@ import com.example.MasterproofTool.user.appUser.Appuser;
 import com.example.MasterproofTool.user.appUser.UserService;
 import com.example.MasterproofTool.user.campus.Campus;
 import com.example.MasterproofTool.user.campus.CampusRepository;
-import com.example.MasterproofTool.user.company.Company;
 import com.example.MasterproofTool.user.company.CompanyService;
 import com.example.MasterproofTool.user.coördinator.Coördinator;
 import com.example.MasterproofTool.user.coördinator.CoördinatorRepository;
